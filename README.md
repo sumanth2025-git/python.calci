@@ -1,2 +1,2 @@
 # python.calci
-A python code simple calculator
+A python code for simple calculator
